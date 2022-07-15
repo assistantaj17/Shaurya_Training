@@ -1,0 +1,15 @@
+D:\Shaurya_Training\Shaurya_Training\bin\Debug\net6.0\Shaurya_Training.exe
+D:\Shaurya_Training\Shaurya_Training\bin\Debug\net6.0\Shaurya_Training.deps.json
+D:\Shaurya_Training\Shaurya_Training\bin\Debug\net6.0\Shaurya_Training.runtimeconfig.json
+D:\Shaurya_Training\Shaurya_Training\bin\Debug\net6.0\Shaurya_Training.dll
+D:\Shaurya_Training\Shaurya_Training\bin\Debug\net6.0\Shaurya_Training.pdb
+D:\Shaurya_Training\Shaurya_Training\obj\Debug\net6.0\Shaurya_Training.csproj.AssemblyReference.cache
+D:\Shaurya_Training\Shaurya_Training\obj\Debug\net6.0\Shaurya_Training.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shaurya_Training\Shaurya_Training\obj\Debug\net6.0\Shaurya_Training.AssemblyInfoInputs.cache
+D:\Shaurya_Training\Shaurya_Training\obj\Debug\net6.0\Shaurya_Training.AssemblyInfo.cs
+D:\Shaurya_Training\Shaurya_Training\obj\Debug\net6.0\Shaurya_Training.csproj.CoreCompileInputs.cache
+D:\Shaurya_Training\Shaurya_Training\obj\Debug\net6.0\Shaurya_Training.dll
+D:\Shaurya_Training\Shaurya_Training\obj\Debug\net6.0\refint\Shaurya_Training.dll
+D:\Shaurya_Training\Shaurya_Training\obj\Debug\net6.0\Shaurya_Training.pdb
+D:\Shaurya_Training\Shaurya_Training\obj\Debug\net6.0\Shaurya_Training.genruntimeconfig.cache
+D:\Shaurya_Training\Shaurya_Training\obj\Debug\net6.0\ref\Shaurya_Training.dll
