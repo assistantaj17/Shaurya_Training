@@ -184,6 +184,37 @@ namespace ADO.NET_Connected_Architecture_Demo
                 con.Close();
             }
         }
+
+        private void btnSaveusingSP_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                
+                //step 3 assign qry to the command
+                cmd = new SqlCommand("SP_Insert_Employee", con);
+                // need to add the following code to tell to command that execute the SP(Stored Procedure)
+                cmd.CommandType = CommandType.StoredProcedure;
+                // step 4  assign parameter value
+                cmd.Parameters.AddWithValue("@name", EmpName.Text);
+                cmd.Parameters.AddWithValue("@salary", Convert.ToDouble(EmpSalary.Text));
+                // step 5 open the connection to fire query
+                con.Open();
+                // step 6 fire the query
+                int result = cmd.ExecuteNonQuery();
+                if (result == 1)
+                {
+                    MessageBox.Show("Success ! Record inserted using SP");
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            finally
+            {
+                con.Close();
+            }
+        }
     }
 
 }

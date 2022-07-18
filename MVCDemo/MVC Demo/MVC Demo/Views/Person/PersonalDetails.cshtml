@@ -1,0 +1,44 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Personal Details";
+}
+<table>
+    <tr>
+        <td>Enter Name</td>
+        <td>
+            @Html.TextBox("user name")    
+        </td>
+    </tr>
+    <tr>
+        <td>Enter Gender</td>
+        <td>
+            @Html.RadioButton("Gender","male")Male
+            @Html.RadioButton("Gender","female")Female
+
+        </td>
+    </tr>
+    <tr>
+        <td>Enter Hobbies</td>
+        <td>
+            <input type="checkbox" name="hobbies" value="Music" />Music
+            <input type="checkbox" name="hobbies" value="Sports" />Sports
+            <input type="checkbox" name="hobbies" value="Drawing" />Drawing
+        </td>
+    </tr>
+    <tr>
+        <td>Would you like to participate in survey?</td>
+        <td>
+            @Html.DropDownList("options");
+        </td>
+    </tr>
+    <tr>
+        <td>
+
+        </td>
+        <td>
+            <input type="Submit"value="Save"/>
+        </td>
+    </tr>
+</table>

@@ -1,0 +1,121 @@
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\MVC Demo.csproj.AssemblyReference.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\MVC Demo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\MVC Demo.AssemblyInfoInputs.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\MVC Demo.AssemblyInfo.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\MVC Demo.csproj.CoreCompileInputs.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\MVC Demo.MvcApplicationPartsAssemblyInfo.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\MVC Demo.RazorAssemblyInfo.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\MVC Demo.RazorAssemblyInfo.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\appsettings.Development.json
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\appsettings.json
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\MVC Demo.exe
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\MVC Demo.deps.json
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\MVC Demo.runtimeconfig.json
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\MVC Demo.runtimeconfig.dev.json
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\MVC Demo.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\MVC Demo.pdb
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\MVC Demo.Views.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\MVC Demo.Views.pdb
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\Humanizer.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\scopedcss\bundle\MVC Demo.styles.css
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\staticwebassets\MVC Demo.StaticWebAssets.Manifest.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\MVC Demo.TagHelpers.input.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\MVC Demo.TagHelpers.output.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\MVC Demo.RazorCoreGenerate.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\Razor\Views\Home\AboutUs.cshtml.g.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\Razor\Views\Home\ContactUs.cshtml.g.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\Razor\Views\Person\Display.cshtml.g.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\Razor\Views\Person\PersonalDetails.cshtml.g.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\MVC Demo.RazorTargetAssemblyInfo.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\MVC Demo.RazorTargetAssemblyInfo.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\MVC Demo.Views.pdb
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\MVC Demo.csproj.CopyComplete
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\MVC Demo.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\refint\MVC Demo.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\MVC Demo.pdb
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\MVC Demo.genruntimeconfig.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\ref\MVC Demo.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\Razor\Views\Product\List.cshtml.g.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\MVCDemo\MVC Demo\MVC Demo\obj\Debug\net5.0\Razor\Views\Product\Create.cshtml.g.cs

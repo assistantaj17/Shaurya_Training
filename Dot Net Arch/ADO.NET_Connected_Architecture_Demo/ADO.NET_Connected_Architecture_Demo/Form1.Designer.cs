@@ -40,6 +40,11 @@
             this.lblEmpSalary = new System.Windows.Forms.Label();
             this.EmpName = new System.Windows.Forms.TextBox();
             this.EmpSalary = new System.Windows.Forms.TextBox();
+            this.btnSaveusingSP = new System.Windows.Forms.Button();
+            this.btnDeleteusingSP = new System.Windows.Forms.Button();
+            this.btnUpdateusingSP = new System.Windows.Forms.Button();
+            this.btnSearchByEmpusingSP = new System.Windows.Forms.Button();
+            this.btnShowAllUsingSP = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.EmpGridView)).BeginInit();
             this.SuspendLayout();
             // 
@@ -72,7 +77,7 @@
             // 
             // btnUpdate
             // 
-            this.btnUpdate.Location = new System.Drawing.Point(292, 265);
+            this.btnUpdate.Location = new System.Drawing.Point(295, 265);
             this.btnUpdate.Name = "btnUpdate";
             this.btnUpdate.Size = new System.Drawing.Size(75, 23);
             this.btnUpdate.TabIndex = 8;
@@ -150,11 +155,62 @@
             this.EmpSalary.Size = new System.Drawing.Size(111, 20);
             this.EmpSalary.TabIndex = 16;
             // 
+            // btnSaveusingSP
+            // 
+            this.btnSaveusingSP.Location = new System.Drawing.Point(178, 328);
+            this.btnSaveusingSP.Name = "btnSaveusingSP";
+            this.btnSaveusingSP.Size = new System.Drawing.Size(98, 23);
+            this.btnSaveusingSP.TabIndex = 17;
+            this.btnSaveusingSP.Text = "Save using SP";
+            this.btnSaveusingSP.UseVisualStyleBackColor = true;
+            this.btnSaveusingSP.Click += new System.EventHandler(this.btnSaveusingSP_Click);
+            // 
+            // btnDeleteusingSP
+            // 
+            this.btnDeleteusingSP.Location = new System.Drawing.Point(63, 328);
+            this.btnDeleteusingSP.Name = "btnDeleteusingSP";
+            this.btnDeleteusingSP.Size = new System.Drawing.Size(101, 23);
+            this.btnDeleteusingSP.TabIndex = 18;
+            this.btnDeleteusingSP.Text = "Delete using SP";
+            this.btnDeleteusingSP.UseVisualStyleBackColor = true;
+            // 
+            // btnUpdateusingSP
+            // 
+            this.btnUpdateusingSP.Location = new System.Drawing.Point(295, 328);
+            this.btnUpdateusingSP.Name = "btnUpdateusingSP";
+            this.btnUpdateusingSP.Size = new System.Drawing.Size(123, 23);
+            this.btnUpdateusingSP.TabIndex = 19;
+            this.btnUpdateusingSP.Text = "Update using SP";
+            this.btnUpdateusingSP.UseVisualStyleBackColor = true;
+            // 
+            // btnSearchByEmpusingSP
+            // 
+            this.btnSearchByEmpusingSP.Location = new System.Drawing.Point(335, 109);
+            this.btnSearchByEmpusingSP.Name = "btnSearchByEmpusingSP";
+            this.btnSearchByEmpusingSP.Size = new System.Drawing.Size(136, 23);
+            this.btnSearchByEmpusingSP.TabIndex = 20;
+            this.btnSearchByEmpusingSP.Text = "Search By Emp using SP";
+            this.btnSearchByEmpusingSP.UseVisualStyleBackColor = true;
+            // 
+            // btnShowAllUsingSP
+            // 
+            this.btnShowAllUsingSP.Location = new System.Drawing.Point(549, 342);
+            this.btnShowAllUsingSP.Name = "btnShowAllUsingSP";
+            this.btnShowAllUsingSP.Size = new System.Drawing.Size(167, 23);
+            this.btnShowAllUsingSP.TabIndex = 21;
+            this.btnShowAllUsingSP.Text = "Show All Emp using SP";
+            this.btnShowAllUsingSP.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnShowAllUsingSP);
+            this.Controls.Add(this.btnSearchByEmpusingSP);
+            this.Controls.Add(this.btnUpdateusingSP);
+            this.Controls.Add(this.btnDeleteusingSP);
+            this.Controls.Add(this.btnSaveusingSP);
             this.Controls.Add(this.EmpSalary);
             this.Controls.Add(this.EmpName);
             this.Controls.Add(this.lblEmpSalary);
@@ -168,7 +224,7 @@
             this.Controls.Add(this.EmployeeID);
             this.Controls.Add(this.lblId);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "ADO.NetConnected Demo";
             ((System.ComponentModel.ISupportInitialize)(this.EmpGridView)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -189,6 +245,11 @@
         private System.Windows.Forms.Label lblEmpSalary;
         private System.Windows.Forms.TextBox EmpName;
         private System.Windows.Forms.TextBox EmpSalary;
+        private System.Windows.Forms.Button btnSaveusingSP;
+        private System.Windows.Forms.Button btnDeleteusingSP;
+        private System.Windows.Forms.Button btnUpdateusingSP;
+        private System.Windows.Forms.Button btnSearchByEmpusingSP;
+        private System.Windows.Forms.Button btnShowAllUsingSP;
     }
 }
 
