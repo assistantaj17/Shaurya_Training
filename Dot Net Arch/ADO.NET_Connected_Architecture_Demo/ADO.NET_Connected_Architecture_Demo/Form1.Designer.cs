@@ -173,6 +173,7 @@
             this.btnDeleteusingSP.TabIndex = 18;
             this.btnDeleteusingSP.Text = "Delete using SP";
             this.btnDeleteusingSP.UseVisualStyleBackColor = true;
+            this.btnDeleteusingSP.Click += new System.EventHandler(this.btnDeleteusingSP_Click);
             // 
             // btnUpdateusingSP
             // 

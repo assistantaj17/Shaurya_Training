@@ -215,6 +215,38 @@ namespace ADO.NET_Connected_Architecture_Demo
                 con.Close();
             }
         }
+
+        private void btnDeleteusingSP_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                
+                //step 3 assign qry to the command
+                cmd = new SqlCommand("SP_Delete_Employee", con);
+                cmd.CommandType = CommandType.StoredProcedure;
+                // step 4  assign parameter value
+                cmd.Parameters.AddWithValue("@ID", Convert.ToInt32(EmployeeID.Text));
+                // step 5 open the connection to fire query
+                con.Open();
+                // step 6 fire the query
+                int result = cmd.ExecuteNonQuery();
+                if (result == 1)
+                {
+                    MessageBox.Show("Success ! Record Deleted");
+                    EmployeeID.Clear();
+                    EmpName.Clear();
+                    EmpSalary.Clear();
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            finally
+            {
+                con.Close();
+            }
+        }
     }
 
 }
