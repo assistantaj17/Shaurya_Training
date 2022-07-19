@@ -124,3 +124,8 @@ D:\DotnetProject\ADODOTNET\Shaurya_Training\CRUDusinngADO.Net\CRUDusinngADO.Net\
 D:\DotnetProject\ADODOTNET\Shaurya_Training\CRUDusinngADO.Net\CRUDusinngADO.Net\obj\Debug\net5.0\Razor\Views\Product\Edit.cshtml.g.cs
 D:\DotnetProject\ADODOTNET\Shaurya_Training\CRUDusinngADO.Net\CRUDusinngADO.Net\obj\Debug\net5.0\Razor\Views\Product\Delete.cshtml.g.cs
 D:\DotnetProject\ADODOTNET\Shaurya_Training\CRUDusinngADO.Net\CRUDusinngADO.Net\obj\Debug\net5.0\Razor\Views\Product\Details.cshtml.g.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\CRUDusinngADO.Net\CRUDusinngADO.Net\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\CRUDusinngADO.Net\CRUDusinngADO.Net\obj\Debug\net5.0\Razor\Views\Employee\Details.cshtml.g.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\CRUDusinngADO.Net\CRUDusinngADO.Net\obj\Debug\net5.0\Razor\Views\Employee\Create.cshtml.g.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\CRUDusinngADO.Net\CRUDusinngADO.Net\obj\Debug\net5.0\Razor\Views\Employee\Edit.cshtml.g.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\CRUDusinngADO.Net\CRUDusinngADO.Net\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
