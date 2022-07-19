@@ -43,7 +43,7 @@ namespace Shaurya_Training.DotNet
                 }
 
             };
-            foreach  (Course c in course)
+            foreach (Course c in course)
             {
                 Console.WriteLine($"{c.ID} {c.Name}");
                 foreach (Student s in c.Students)

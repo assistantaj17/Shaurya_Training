@@ -5,7 +5,7 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Shaurya_Training.DotNet.Program01</StartupObject>
+    <StartupObject>Shaurya_Training.AppusingLINQ.Courses</StartupObject>
   </PropertyGroup>
 
 </Project>
