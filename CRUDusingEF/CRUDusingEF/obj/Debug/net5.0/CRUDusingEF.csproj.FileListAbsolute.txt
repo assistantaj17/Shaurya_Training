@@ -1,0 +1,9 @@
+D:\DotnetProject\ADODOTNET\Shaurya_Training\CRUDusingEF\CRUDusingEF\obj\Debug\net5.0\CRUDusingEF.csproj.AssemblyReference.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\CRUDusingEF\CRUDusingEF\obj\Debug\net5.0\CRUDusingEF.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetProject\ADODOTNET\Shaurya_Training\CRUDusingEF\CRUDusingEF\obj\Debug\net5.0\CRUDusingEF.AssemblyInfoInputs.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\CRUDusingEF\CRUDusingEF\obj\Debug\net5.0\CRUDusingEF.AssemblyInfo.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\CRUDusingEF\CRUDusingEF\obj\Debug\net5.0\CRUDusingEF.csproj.CoreCompileInputs.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\CRUDusingEF\CRUDusingEF\obj\Debug\net5.0\CRUDusingEF.MvcApplicationPartsAssemblyInfo.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\CRUDusingEF\CRUDusingEF\obj\Debug\net5.0\CRUDusingEF.MvcApplicationPartsAssemblyInfo.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\CRUDusingEF\CRUDusingEF\obj\Debug\net5.0\CRUDusingEF.RazorAssemblyInfo.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\CRUDusingEF\CRUDusingEF\obj\Debug\net5.0\CRUDusingEF.RazorAssemblyInfo.cs

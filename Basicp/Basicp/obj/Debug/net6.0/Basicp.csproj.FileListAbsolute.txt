@@ -1,0 +1,15 @@
+D:\DotnetProject\ADODOTNET\Shaurya_Training\Basicp\Basicp\bin\Debug\net6.0\Basicp.exe
+D:\DotnetProject\ADODOTNET\Shaurya_Training\Basicp\Basicp\bin\Debug\net6.0\Basicp.deps.json
+D:\DotnetProject\ADODOTNET\Shaurya_Training\Basicp\Basicp\bin\Debug\net6.0\Basicp.runtimeconfig.json
+D:\DotnetProject\ADODOTNET\Shaurya_Training\Basicp\Basicp\bin\Debug\net6.0\Basicp.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\Basicp\Basicp\bin\Debug\net6.0\Basicp.pdb
+D:\DotnetProject\ADODOTNET\Shaurya_Training\Basicp\Basicp\obj\Debug\net6.0\Basicp.csproj.AssemblyReference.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\Basicp\Basicp\obj\Debug\net6.0\Basicp.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotnetProject\ADODOTNET\Shaurya_Training\Basicp\Basicp\obj\Debug\net6.0\Basicp.AssemblyInfoInputs.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\Basicp\Basicp\obj\Debug\net6.0\Basicp.AssemblyInfo.cs
+D:\DotnetProject\ADODOTNET\Shaurya_Training\Basicp\Basicp\obj\Debug\net6.0\Basicp.csproj.CoreCompileInputs.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\Basicp\Basicp\obj\Debug\net6.0\Basicp.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\Basicp\Basicp\obj\Debug\net6.0\refint\Basicp.dll
+D:\DotnetProject\ADODOTNET\Shaurya_Training\Basicp\Basicp\obj\Debug\net6.0\Basicp.pdb
+D:\DotnetProject\ADODOTNET\Shaurya_Training\Basicp\Basicp\obj\Debug\net6.0\Basicp.genruntimeconfig.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\Basicp\Basicp\obj\Debug\net6.0\ref\Basicp.dll

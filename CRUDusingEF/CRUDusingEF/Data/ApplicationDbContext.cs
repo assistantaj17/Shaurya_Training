@@ -12,5 +12,7 @@ namespace CRUDusingEF.Data
             : base(options)
         {
         }
+
+        public DbSet<ProductDAL> Products { get; set; }
     }
 }

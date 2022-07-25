@@ -24,7 +24,7 @@
     }
     public class ProductDAL
     {
-        public static IEnumerable<Product> GetAllProducts()
+        public static List<Product> GetAllProducts()
         {
             List<Product> productList = new List<Product>();
             using (IDbConnection con = new SqlConnection(Product.ConnectionString))
