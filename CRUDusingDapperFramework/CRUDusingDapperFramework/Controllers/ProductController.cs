@@ -12,7 +12,7 @@ namespace CRUDusingDapperFramework.Controllers
             var model = ProductDAL.GetAllProducts();
             return View(model);
 
-        }
+        }                                
 
         // GET: ProductController/Details/5
         public ActionResult Details(int id)
