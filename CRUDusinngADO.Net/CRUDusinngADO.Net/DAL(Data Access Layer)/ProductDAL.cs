@@ -28,7 +28,7 @@ namespace CRUDusinngADO.Net.DAL_Data_Access_Layer_
                 {
                     Product p = new Product();
                     p.Id = Convert.ToInt32(dr["Id"]);
-                    p.Pname = dr["Pname"].ToString();
+                    p.Pname = dr["name"].ToString();
                     p.Price = Convert.ToDouble(dr["Price"]);
                     plist.Add(p);
                 }
@@ -49,7 +49,7 @@ namespace CRUDusinngADO.Net.DAL_Data_Access_Layer_
                 while (dr.Read())
                 {
                     p.Id = Convert.ToInt32(dr["Id"]);
-                    p.Pname = dr["Pname"].ToString();
+                    p.Pname = dr["name"].ToString();
                     p.Price = Convert.ToDouble(dr["Price"]);
                 }
             }

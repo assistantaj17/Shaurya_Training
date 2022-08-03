@@ -1,0 +1,11 @@
+D:\DotnetProject\ADODOTNET\Shaurya_Training\InsertDatainTable\InsertDatainTable\obj\Debug\InsertDatainTable.csproj.AssemblyReference.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\InsertDatainTable\InsertDatainTable\obj\Debug\InsertDatainTable.csproj.SuggestedBindingRedirects.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\InsertDatainTable\InsertDatainTable\obj\Debug\InsertDatainTable.Form1.resources
+D:\DotnetProject\ADODOTNET\Shaurya_Training\InsertDatainTable\InsertDatainTable\obj\Debug\InsertDatainTable.Properties.Resources.resources
+D:\DotnetProject\ADODOTNET\Shaurya_Training\InsertDatainTable\InsertDatainTable\obj\Debug\InsertDatainTable.csproj.GenerateResource.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\InsertDatainTable\InsertDatainTable\obj\Debug\InsertDatainTable.csproj.CoreCompileInputs.cache
+D:\DotnetProject\ADODOTNET\Shaurya_Training\InsertDatainTable\InsertDatainTable\bin\Debug\InsertDatainTable.exe.config
+D:\DotnetProject\ADODOTNET\Shaurya_Training\InsertDatainTable\InsertDatainTable\bin\Debug\InsertDatainTable.exe
+D:\DotnetProject\ADODOTNET\Shaurya_Training\InsertDatainTable\InsertDatainTable\bin\Debug\InsertDatainTable.pdb
+D:\DotnetProject\ADODOTNET\Shaurya_Training\InsertDatainTable\InsertDatainTable\obj\Debug\InsertDatainTable.exe
+D:\DotnetProject\ADODOTNET\Shaurya_Training\InsertDatainTable\InsertDatainTable\obj\Debug\InsertDatainTable.pdb
